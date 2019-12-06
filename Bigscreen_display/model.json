@@ -1,0 +1,12 @@
+{
+  "1_5": {
+    "entry_id": "1_5",
+    "ctype": "sensor",
+    "cctype": "noise",
+    "scenes": [
+      "a",
+      "b"
+    ],
+    "data": "48.1"
+  }
+}
